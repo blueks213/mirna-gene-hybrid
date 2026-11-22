@@ -124,7 +124,7 @@ print(tf.config.list_physical_devices('GPU'))
 ## 使用方法
 
 ### 数据准备
-将以下文件放入项目根目录：
+数据文件已随仓库提供，位于项目根目录：
 - gene_seq.csv
 - mirna_seq.csv
 - Train_test.csv
